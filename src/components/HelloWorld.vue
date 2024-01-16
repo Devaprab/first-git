@@ -7,6 +7,7 @@
     <p>parvathy </p>
 
     <p>akhila</p>
+    <p>Go to your classes</p>
   </div>
 </template>
 
